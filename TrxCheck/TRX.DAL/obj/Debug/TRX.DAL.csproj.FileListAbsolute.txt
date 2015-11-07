@@ -1,0 +1,37 @@
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\bin\Debug\TRX.DAL.dll
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\bin\Debug\TRX.DAL.pdb
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\obj\Debug\TRX.DAL.csprojResolveAssemblyReference.cache
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\obj\Debug\TRX.DAL.dll
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\obj\Debug\TRX.DAL.pdb
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\bin\Debug\TRX.DAO.dll
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\bin\Debug\TRX.DAO.pdb
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\bin\Debug\MySql.Data.dll
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAL\bin\Debug\MySql.Web.dll
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\obj\Debug\TRX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\obj\Debug\TRX.DAL.dll
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\bin\Debug\TRX.DAL.dll
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\bin\Debug\TRX.DAL.pdb
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\bin\Debug\MySql.Data.dll
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\bin\Debug\MySql.Web.dll
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\bin\Debug\TRX.DAO.dll
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\bin\Debug\TRX.DAO.pdb
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAL\obj\Debug\TRX.DAL.pdb
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\bin\Debug\TRX.DAL.dll
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\bin\Debug\TRX.DAL.pdb
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\bin\Debug\MySql.Data.dll
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\bin\Debug\MySql.Web.dll
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\bin\Debug\TRX.DAO.dll
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\bin\Debug\TRX.DAO.pdb
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\obj\Debug\TRX.DAL.csprojResolveAssemblyReference.cache
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\obj\Debug\TRX.DAL.dll
+C:\Users\atik\Desktop\TRXShifter\TRX.DAL\obj\Debug\TRX.DAL.pdb
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\bin\Debug\TRX.DAL.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\bin\Debug\TRX.DAL.pdb
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\bin\Debug\MySql.Data.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\bin\Debug\MySql.Web.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\bin\Debug\TRX.DAO.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\bin\Debug\telnetlib.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\bin\Debug\TRX.DAO.pdb
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\obj\Debug\TRX.DAL.csprojResolveAssemblyReference.cache
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\obj\Debug\TRX.DAL.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAL\obj\Debug\TRX.DAL.pdb

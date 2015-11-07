@@ -1,0 +1,24 @@
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAO\bin\Debug\TRX.DAO.dll
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAO\bin\Debug\TRX.DAO.pdb
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAO\obj\Debug\TRX.DAO.dll
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAO\obj\Debug\TRX.DAO.pdb
+F:\BASIS Class\Practice Web ASP\trxCheck\TRX.DAO\obj\Debug\TRX.DAO.csprojResolveAssemblyReference.cache
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAO\bin\Debug\TRX.DAO.dll.config
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAO\bin\Debug\TRX.DAO.dll
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAO\bin\Debug\TRX.DAO.pdb
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAO\obj\Debug\TRX.DAO.csprojResolveAssemblyReference.cache
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAO\obj\Debug\TRX.DAO.dll
+C:\Users\atik\Downloads\trxCheck(3)\trxCheck\TRX.DAO\obj\Debug\TRX.DAO.pdb
+C:\Users\atik\Desktop\TRXShifter\TRX.DAO\bin\Debug\TRX.DAO.dll.config
+C:\Users\atik\Desktop\TRXShifter\TRX.DAO\bin\Debug\TRX.DAO.dll
+C:\Users\atik\Desktop\TRXShifter\TRX.DAO\bin\Debug\TRX.DAO.pdb
+C:\Users\atik\Desktop\TRXShifter\TRX.DAO\obj\Debug\TRX.DAO.csprojResolveAssemblyReference.cache
+C:\Users\atik\Desktop\TRXShifter\TRX.DAO\obj\Debug\TRX.DAO.dll
+C:\Users\atik\Desktop\TRXShifter\TRX.DAO\obj\Debug\TRX.DAO.pdb
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAO\bin\Debug\TRX.DAO.dll.config
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAO\bin\Debug\TRX.DAO.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAO\bin\Debug\TRX.DAO.pdb
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAO\bin\Debug\telnetlib.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAO\obj\Debug\TRX.DAO.dll
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAO\obj\Debug\TRX.DAO.pdb
+F:\BASIS Class\Practice Web ASP\TRXShifter\TRX.DAO\obj\Debug\TRX.DAO.csprojResolveAssemblyReference.cache
